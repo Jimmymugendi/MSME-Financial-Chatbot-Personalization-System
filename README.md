@@ -51,7 +51,7 @@ msme-chatbot-personalization/
 └── README.md
 ```
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Jimmymugendi/MSME-Financial-Chatbot-Personalization-System.git
 cd msme-chatbot-personalization
 ```
 ```bash
